@@ -1,0 +1,15 @@
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Virtual environments (commonly named .venv, venv, or env)
+.venv/
+venv/
+env/
+
+# VS Code and other IDE/editor settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
